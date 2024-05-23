@@ -1,0 +1,170 @@
+
+{
+    "apprenants":[
+      {
+        "id":1,
+        "nom":"Ba",
+        "prenom":"Badara",
+        "email":"bbabadara@gmail.com",
+        "telephone":"772641040",
+        "genre":"M",
+        "image":"1.jpg",
+        "idClass":1
+
+      },
+      {
+        "id": 2,
+        "nom": "Sene",
+        "prenom": "Awa",
+        "email": "awa.sene@example.com",
+        "telephone": "771234567",
+        "genre": "F",
+        "image": "2.jpg",
+        "idClass": 1
+      },
+      {
+        "id": 3,
+        "nom": "Diop",
+        "prenom": "Madieume",
+        "email": "madieume.diop@example.com",
+        "telephone": "778765432",
+        "genre": "F",
+        "image": "3.jpg",
+        "idClass": 1
+      },
+      {
+        "id": 4,
+        "nom": "Ba",
+        "prenom": "Amadou",
+        "email": "amadou.ba@example.com",
+        "telephone": "774567890",
+        "genre": "M",
+        "image": "4.jpg",
+        "idClass": 1
+      },
+      {
+        "id": 5,
+        "nom": "Diallo",
+        "prenom": "Mamadou",
+        "email": "mamadou.diallo@example.com",
+        "telephone": "773456789",
+        "genre": "M",
+        "image": "5.jpg",
+        "idClass": 1
+      },
+      {
+        "id": 6,
+        "nom": "Diatta",
+        "prenom": "Issa",
+        "email": "issa.diatta@example.com",
+        "telephone": "776543210",
+        "genre": "M",
+        "image": "6.jpg",
+        "idClass": 1
+      },
+      {
+        "id": 7,
+        "nom": "Diallo",
+        "prenom": "Djamilatou",
+        "email": "djamilatou.diallo@example.com",
+        "telephone": "772345678",
+        "genre": "F",
+        "image": "7.jpg",
+        "idClass": 1
+      }  
+    ],
+    "promotions":[
+        {
+            "id":1,
+            "nom":"Promotion 1",
+            "dateDebut":"2020-01-05",
+            "dateFin":"2020-10-05",
+            "active":false
+        },
+        {
+            "id":2,
+            "nom":"Promotion 2",
+            "dateDebut":"2021-01-05",
+            "dateFin":"2021-10-05",
+            "active":false
+        },
+        {
+            "id":3,
+            "nom":"Promotion 3",
+            "dateDebut":"2022-01-05",
+            "dateFin":"2022-10-05",
+            "active":false
+        },
+        {
+            "id":4,
+            "nom":"Promotion 4",
+            "dateDebut":"2023-01-05",
+            "dateFin":"2023-10-05",
+            "active":false
+        },
+        {
+            "id":5,
+            "nom":"Promotion 5",
+            "dateDebut":"2024-01-05",
+            "dateFin":"2024-10-05",
+            "active":true
+        }
+        
+    ],
+    "classes": [
+        {
+            "id_classe": 1,
+            "nom": "L1 Dev Web/Mobile",
+            "filiere": "Dev Web/Mobile",
+            "niveau": "L1"
+        },
+        {
+            "id_classe": 2,
+            "nom": "L1 GL",
+            "filiere": "Génie Logiciel",
+            "niveau": "L1"
+        },
+        {
+            "id_classe": 3,
+            "nom": "L1 Design",
+            "filiere": "Design Numérique",
+            "niveau": "L1"
+        },
+        {
+            "id_classe": 4,
+            "nom": "L2 Dev Web/Mobile",
+            "filiere": "Dev Web/Mobile",
+            "niveau": "L2"
+        },
+        {
+            "id_classe": 5,
+            "nom": "L2 GL",
+            "filiere": "Génie Logiciel",
+            "niveau": "L2"
+        },
+        {
+            "id_classe": 6,
+            "nom": "L2 Design",
+            "filiere": "Design Numérique",
+            "niveau": "L2"
+        },
+        {
+            "id_classe": 7,
+            "nom": "L3 Dev Web/Mobile",
+            "filiere": "Dev Web/Mobile",
+            "niveau": "L3"
+        },
+        {
+            "id_classe": 8,
+            "nom": "L3 GL",
+            "filiere": "Génie Logiciel",
+            "niveau": "L3"
+        },
+        {
+            "id_classe": 9,
+            "nom": "L3 Design",
+            "filiere": "Design Numérique",
+            "niveau": "L3"
+        }
+    ]
+}
